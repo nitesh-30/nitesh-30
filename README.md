@@ -5,7 +5,7 @@
 - 📫 How to reach me email niteshkumarmishra77838@gmail.com
 - GFG PROFILE https://auth.geeksforgeeks.org/user/niteshkumarmishra77838/
 - LEETCODE PROFILE https://leetcode.com/niteshanupam/
-- HACKERRANK PROFILE https://www.hackerrank.com/dashboard
+- HACKERRANK PROFILE https://www.hackerrank.com/niteshkumar530_1
 - 
 
 <!---
